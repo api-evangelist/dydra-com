@@ -1,0 +1,71 @@
+{
+    "name": "Dydra.com",
+    "description": "Cloud-hosted RDF & SPARQL database service by @datagraph. Request an invite to the beta program at http:\/\/t.co\/Sat0oPE8fu",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/766-dydra-com.jpg",
+    "tags": [
+        "api provider",
+        "cloud",
+        "databases",
+        "have api",
+        "semantic"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/dydra-com\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Dydra.com",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/766-dydra-com.jpg",
+            "humanURL": "http:\/\/dydra.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dydra-com-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/dydra.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.dydra.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/dydra"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/dydra"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/dydra"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/docs.dydra.com\/api\/rest"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/dydra"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/dydradata"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/dydra.com"
+        }
+    ]
+}
